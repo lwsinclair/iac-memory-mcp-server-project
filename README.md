@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/agentwong-iac-memory-mcp-server-project-badge.png)](https://mseep.ai/app/agentwong-iac-memory-mcp-server-project)
+
 # IaC Memory MCP Server
 
 A Model Context Protocol (MCP) server that enhances Claude AI's capabilities by providing persistent memory storage for Infrastructure-as-Code (IaC) components, with a focus on version tracking and relationship mapping for Terraform and Ansible resources.
